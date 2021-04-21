@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1603650756 source:c:\users\usuario\desktop\tp1 lab2\trabajopracticon2lab2\reservatucancha\jugadores.cpp
+	<iostream>
+
+1603404069 source:c:\users\usuario\desktop\tp1 lab2\trabajopracticon2lab2\reservatucancha\main.cpp
+	<iostream>
+	"menu.h"
+
+1603654209 c:\users\usuario\desktop\tp1 lab2\trabajopracticon2lab2\reservatucancha\menu.h
+
+1603654013 source:c:\users\usuario\desktop\tp1 lab2\trabajopracticon2lab2\reservatucancha\menu.cpp
+	<iostream>
+	"menu.h"
+
